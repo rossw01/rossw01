@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Ross!</h1>
+<h1 align="center">Hey 👋 I'm Ross!</h1>
 <h3 align="center">I'm an aspiring Software developer from the UK.</h3>
 
 - 🔭 I'm Currently learning **HTML, CSS, JavaScript.**
