@@ -1,6 +1,7 @@
 <h1 align="center">Hey 👋 I'm Ross!</h1>
 <h3 align="center">I'm an aspiring Software developer from the UK.</h3>
 <br />
+
 - 🔭 I'm Currently learning **HTML, CSS, JavaScript.**
 
 - 🎉 I am a fan of **Rubix-Cubes, Baduk, and Guitar.**
