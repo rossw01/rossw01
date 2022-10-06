@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently learning **HTML, CSS, and JavaScript.**
 
-- 🎉 I am a fan of **Rubix-Cubes, Baduk, and Guitar.**
+- 🎉 I am a fan of **Speedcubing, Baduk, and Guitar.**
 
 - 🌠 In the future, I want to learn **TypeScript and Rust.**
 
