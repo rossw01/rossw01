@@ -2,7 +2,7 @@
 <h3 align="center">I'm an aspiring developer from the UK.</h3>
 <br />
 
-- 🔭 I'm currently learning **HTML, CSS, and JavaScript.**
+- 🔭 I'm currently learning **React**
 
 - 🎉 I am a fan of **Speedcubing, Baduk, and Guitar.**
 
