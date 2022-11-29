@@ -6,7 +6,7 @@
 
 - 🎉 I am a fan of **Speedcubing, Baduk, and Guitar.**
 
-- 🌠 In the future, I want to learn **TypeScript, Rust, and Spring**
+- 🌠 In the future, I want to learn **TypeScript and Spring**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
