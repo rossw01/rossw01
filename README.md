@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently learning **React**
 
-- 🎉 I am a fan of **Speedcubing, Baduk, and Guitar.**
+- 🎉 I am a fan of **Speedcubing, Baduk, <a href="https://github.com/rossw01/macos-1013-hackintosh">Hackintosh</a> and Guitar.**
 
 - 🌠 In the future, I want to learn **TypeScript and Spring**
 
