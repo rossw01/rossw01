@@ -1,12 +1,10 @@
-<h1 align="center">Hey 👋 I'm Ross!</h1>
-<h3 align="center">I'm a Web developer from the UK.</h3>
+<h1 align="left">Ross 🥁</h1>
+<h3 align="left">I'm a developer from the UK</h3>
 <br />
 
-- 🔭 I'm currently learning **React**
+🔭 I'm currently learning TypeScript
 
-- 🎉 I am a fan of **Speedcubing, Baduk, <a href="https://github.com/rossw01/macos-1013-hackintosh">Hackintosh</a> and Guitar.**
-
-- 🌠 In the future, I want to learn **TypeScript and Spring**
+🌠 In the future, I want to learn **Spring**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
