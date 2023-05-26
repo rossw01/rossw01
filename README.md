@@ -2,7 +2,7 @@
 <h3 align="left">I'm a developer from the UK</h3>
 <br />
 
-🔭 I'm currently learning TypeScript
+🔭 I'm currently learning **TypeScript**
 
 🌠 In the future, I want to learn **Spring**
 
