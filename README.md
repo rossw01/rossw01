@@ -1,10 +1,9 @@
 <h1 align="left">Ross 🥁</h1>
 <h3 align="left">I'm a developer from the UK</h3>
-<br />
 
-🔭 I'm currently learning **Spring**
+🔭 I'm currently learning **JavaFX**
 
-🌠 In the future, I want to learn **Next.js**
+🌠 In the future, I want to learn **Docker**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
