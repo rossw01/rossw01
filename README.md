@@ -1,6 +1,7 @@
 <h1 align="left">Ross 🥁</h1>
 
 always chilling 🥶 
+
 discord: rw01
 
 <h3 align="left">Languages/tools:</h3>
